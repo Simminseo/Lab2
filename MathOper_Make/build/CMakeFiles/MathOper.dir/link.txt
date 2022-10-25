@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMathOper.a CMakeFiles/MathOper.dir/lib/MathOper.o
+/usr/bin/ranlib libMathOper.a

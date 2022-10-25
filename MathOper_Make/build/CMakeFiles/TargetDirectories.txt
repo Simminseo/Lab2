@@ -1,0 +1,4 @@
+/home/user/lab2/MathOper_Make/build/CMakeFiles/main.dir
+/home/user/lab2/MathOper_Make/build/CMakeFiles/MathOper.dir
+/home/user/lab2/MathOper_Make/build/CMakeFiles/edit_cache.dir
+/home/user/lab2/MathOper_Make/build/CMakeFiles/rebuild_cache.dir
