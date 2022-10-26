@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include "MathOper.h"
 
-void main(int argc, char *argv[]){
-  printf("%d + %d = %d\n", atoi(argv[1]),atoi(argv[2]), add(atoi(argv[1]),atoi(argv[2])));
-  printf("%d - %d = %d\n", atoi(argv[1]),atoi(argv[2]), sub(atoi(argv[1]),atoi(argv[2])));
-  printf("%d * %d = %d\n", atoi(argv[1]),atoi(argv[2]), mul(atoi(argv[1]),atoi(argv[2])));
-  printf("%d / %d =  %f\n", atoi(argv[1]),atoi(argv[2]), div(atoi(argv[1]),atoi(argv[2])));
+int main()
+{
+	printf("add(2,5) = %d\n", add(2,5));
+	printf("sub(2,5) = %d\n", sub(2,5));
+	printf("mul(2,5) = %d\n", mul(2,5));
+	printf("div(2,5) = %.2f\n", div(2,5));
 }
